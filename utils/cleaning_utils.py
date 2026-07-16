@@ -1,3 +1,6 @@
+import pandas as pd
+
+
 # quick check on tables
 def quick_check(df):
     print("SHAPE:", df.shape)
